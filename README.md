@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @harsh-sql
-- 👀 I’m interested in Open Source Projects
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on different open source projects
-- 📫 How to reach me: harsh2002goel@gmail.com
+//HERE TO GET SOME INFO?
 
-<!---
-harsh-sql/harsh-sql is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import java.util.*;
+public class HARSH_GOEL
+{
+    public static void main()
+    {
+    string Intrest,Learning,Mail,LinkedIN;
+    Intrest   = "Coding"
+    Learning  = "Python & Java"
+    Mail      = "harsh2002goel@gmail.com"
+    LinkedIN  = "@iharrsh"
+    System.out.println("Hey, I am Harsh. My Intrests are" +Intrest "and I am Currently Learning" +Learning ". You could contact me either on mail or LinkedIN" +Mail ","     +LinkedIN);
+    }
+}
