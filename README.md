@@ -3,14 +3,21 @@
 
 
 
-import readme.md </br>
-Name               = "HARSH GOEL"</br>
-Intrest   = "Coding"</br>
-Currently_Learning = "Java & Python"</br>
-Looking_For        = "Internships & Projects"</br>
-Reach_me           = "harsh2002goel@gmail.com"</br>
-print("My name is",Name "and I am intrested in",Intrest)</br>
-print("I am currently learning" Currently_Learning)</br>
+//HERE TO GET SOME INFO?<br>
+<br>
+import java.util.*;<br>
+public class HARSH_GOEL<br>
+{<br>
+    public static void main()<br>
+    {<br>
+    string Intrest,Learning,Mail,LinkedIN;<br>
+    Interests = "Coding"<br>
+    Learning = "Python & Java"<br>
+    Contacta = "harsh2002goel@gmail.com"<br>
+    LinkedIN = "@iharrsh"<br>
+    System.out.println("Hey, I am Harsh. My Interests are" +Intrest "and I am Currently Learning" +Learning ". You could contact me either on mail or LinkedIN" +Contacta "," +LinkedIN);<br>
+    }<br>
+}<br>
 
 [![@error's Holopin board](https://holopin.me/error)](https://holopin.io/@error)
 
