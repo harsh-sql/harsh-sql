@@ -1,28 +1,7 @@
+🚀 Welcome to my LinkedIn journey! I'm Harsh Goel, an Engineer with a relentless passion for technology and a keen eye for data-driven solutions. I'm pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Data Science at Inderprastha Engineering College. With a strong CGPA of 7.94, I'm on a mission to design and implement innovative, efficient solutions that shape the future.
 
+💻 My technical toolkit is well-equipped with HTML, CSS, JavaScript, Node.js, MySQL, MongoDB, Github, Google Cloud, and Django. I'm equally comfortable with Java and Python, making me a versatile coder. I've honed my skills through a variety of roles and internships, including my time as a Student Trainee at Tech Mahindra, where I automated processes and developed web applications using a range of technologies. Currently, I'm a Software Developer Intern at the Global Development Community Program, leading the IT team and automating NGO processes while collaborating with various departments.
 
+🌐 In the world of projects, I've explored the exciting realm of Data Science by extracting stock data using Python, yfinance, pandas, and more. My Django-based URL Shortener project offers custom aliases and analytics. Currently, I'm engaged in the GDCP Automation project, reshaping the community with frontend, backend, chatbots, and databases. 
 
-
-
-//HERE TO GET SOME INFO?<br>
-<br>
-import java.util.*;<br>
-public class HARSH_GOEL<br>
-{<br>
-    public static void main()<br>
-    {<br>
-    string Intrest,Learning,Mail,LinkedIN;<br>
-    Interests = "Coding"<br>
-    Learning = "Python & Java"<br>
-    Contacta = "harsh2002goel@gmail.com"<br>
-    LinkedIN = "@iharrsh"<br>
-    System.out.println("Hey, I am Harsh. My Interests are" +Intrest "and I am Currently Learning" +Learning ". You could contact me either on mail or LinkedIN" +Contacta "," +LinkedIN);<br>
-    }<br>
-}<br>
-
-[![@error's Holopin board](https://holopin.me/error)](https://holopin.io/@error)
-
-
-
-
-
-
+🏆 Some of my accolades include ranking 75th in PrepSAT, completing Hactoberfest in 2022 and 2023, and graduating from Google Cloud Skills Boost and IBM Data Science Professional Certification courses. I've also completed an Artificial Intelligence course with Accenture and Future Learn, and deepened my knowledge with Python Fundamentals and Data Science Essentials through Great Learning. I'm excited to connect with fellow tech enthusiasts, mentors, and potential collaborators. Let's embark on new tech adventures and create a future powered by innovation! Feel free to reach out for discussions, collaborations, or a good old tech chat. Together, let's explore the endless possibilities of the tech world! 🚀
